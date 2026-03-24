@@ -8,7 +8,7 @@
  - How to clone
  - How to check status
 
-## ⚙️ Basic Git Commands
+##  Basic Git Commands
 
 | Command | Description |
 |--------|------------|
@@ -24,7 +24,7 @@
 
 ---
 
-## 📚 What I Learned
+## What I Learned
 - Understanding of Git and GitHub  
 - Difference between Git and GitHub  
 - How to initialize a repository  
@@ -35,7 +35,7 @@
 
 ---
 
-## 💻 Project Description
+##  Project Description
 This project is a simple Python program that:
 - Takes user input  
 - Displays a personalized greeting  
