@@ -20,7 +20,7 @@
 | `git merge` | Merge branches |
 | `git push` | Upload code to GitHub |
 | `git pull` | Download latest changes |
-| `git clone | Copy a repository locally |
+| `git clone` | Copy a repository locally |
 
 ---
 
